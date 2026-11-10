@@ -88,13 +88,19 @@ MasjidTime is actively developed and maintained by **Cloud S/ntax**.
 - **[View Version History](CHANGELOG.md)** - Explore previous releases, improvements and development milestones.
 - **[View All Releases](https://github.com/Cloud-Syntax/MasjidTime-Downloads/releases)** - Download the latest available Windows and Linux versions.
 
-## Licensing
+## Support & Contact
 
-**Copyright © 2026 Cloud S/ntax. All rights reserved.**
+Need help installing, activating or configuring MasjidTime?
 
-MasjidTime is proprietary software. Downloading the application does not grant permission to redistribute, modify, reverse-engineer or commercially exploit it, except as permitted by applicable law or a separate licence agreement.
+Contact the **Cloud S/ntax Support Team**.
 
-Source code is not publicly distributed.
+**Email:** [support@cloudsyntax.co.uk](mailto:support@cloudsyntax.co.uk)
+
+- **Licence requests:** [Request a MasjidTime Licence](docs/ACTIVATION.md)
+- **Installation assistance:** [Windows Guide](docs/INSTALL_WINDOWS.md) | [Linux Guide](docs/INSTALL_LINUX.md)
+- **Technical support:** Email us with your MasjidTime version, operating system and a description of the issue.
+
+Please do not share licence files, passwords or other confidential information publicly.
 
 ## About Cloud S/ntax
 
