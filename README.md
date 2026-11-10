@@ -56,9 +56,10 @@ Additional documentation covering prayer timetable configuration, CSV imports, l
 
 ## Version History
 
-MasjidTime is actively developed and maintained by Cloud S/ntax.
+MasjidTime is actively developed and maintained by **Cloud S/ntax**.
 
-See [GitHub Releases](https://github.com/Cloud-Syntax/MasjidTime-Downloads/releases) for the latest version information.
+- **[View Version History](CHANGELOG.md)** - Explore previous releases, improvements and development milestones.
+- **[View All Releases](https://github.com/Cloud-Syntax/MasjidTime-Downloads/releases)** - Download the latest available Windows and Linux versions.
 
 ## Licensing
 
