@@ -35,7 +35,31 @@ Visit [All Releases](https://github.com/Cloud-Syntax/MasjidTime-Downloads/releas
 
 ## Screenshots
 
-Application screenshots will be added here.
+Explore MasjidTime's prayer timetable displays, Jum'uah Explorer and customisation options.
+
+### Landscape Display with Promotions
+
+![MasjidTime landscape display with promotions](screenshots/Landscape%20-%20Promotions.png)
+
+### Portrait Prayer Display
+
+![MasjidTime portrait prayer timetable](screenshots/Portrait%20-%20Default.png)
+
+### Jum'uah Explorer
+
+![MasjidTime Jum'uah Explorer](screenshots/Landscape%20-%20Explorer.png)
+
+### Display Customisation
+
+![MasjidTime display settings](screenshots/Settings%20-%20Display.png)
+
+### General Settings
+
+![MasjidTime general settings](screenshots/Settings%20-%20General.png)
+
+### Masjid and Timetable Configuration
+
+![MasjidTime masjid configuration](screenshots/Settings%20-%20Masajid.png)
 
 ## Installation
 
