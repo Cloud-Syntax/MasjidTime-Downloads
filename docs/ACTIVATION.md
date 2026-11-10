@@ -23,16 +23,23 @@ Copy the Device ID exactly as displayed.
 
 ## 3. Request a licence
 
-Contact Cloud S/ntax and provide:
+To activate MasjidTime, request a device-specific licence from Cloud S/ntax.
 
-- Your Device ID
-- Your masjid or organisation name
-- Your contact details
-- Your operating system (Windows or Linux)
+**Email:** [support@cloudsyntax.co.uk](mailto:support@cloudsyntax.co.uk)
 
-Cloud S/ntax will use this information to prepare the appropriate licence.
+**[Click here to request your MasjidTime licence](mailto:support@cloudsyntax.co.uk?subject=MasjidTime%20Licence%20Request&body=Masjid%20or%20Organisation%3A%0AContact%20Name%3A%0AOperating%20System%20%28Windows%2FLinux%29%3A%0ADevice%20ID%3A%0A%0AAdditional%20Information%3A)**
 
-**Important:** The Device ID is not a password. However, avoid sharing it publicly.
+Please include:
+
+- Masjid or organisation name
+- Contact name
+- Operating system (Windows or Linux)
+- Device ID displayed on the activation screen
+- Any additional information relevant to your request
+
+Cloud S/ntax will review your request and provide the appropriate `.lic` file.
+
+**Note:** Your Device ID is not a password, but you should avoid sharing it publicly.
 
 ## 4. Receive your licence file
 
