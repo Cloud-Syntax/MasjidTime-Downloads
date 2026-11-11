@@ -78,6 +78,7 @@ Everything you need to install, activate and configure MasjidTime.
 | [Windows Installation](docs/INSTALL_WINDOWS.md) | Download, install and run MasjidTime on Windows. |
 | [Linux Installation](docs/INSTALL_LINUX.md) | Install and run MasjidTime on Linux, including Zorin OS. |
 | [Licence Activation](docs/ACTIVATION.md) | Find your Device ID, request a licence and activate MasjidTime. |
+| [Configuration & User Guide](docs/CONFIGURATION.md) | Quick Start, prayer timetables, Iqamah settings, display customisation and troubleshooting |
 
 Additional guides covering prayer timetable configuration, CSV imports, display customisation and troubleshooting are being prepared.
 
