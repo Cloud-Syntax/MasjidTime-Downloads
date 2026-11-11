@@ -67,8 +67,6 @@ Download the package for your operating system, extract the ZIP archive and laun
 
 A valid licence may be required to activate the software.
 
-Detailed installation and activation instructions will be added to the documentation.
-
 ## Documentation
 
 Everything you need to install, activate and configure MasjidTime.
