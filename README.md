@@ -93,7 +93,7 @@ Need help installing, activating or configuring MasjidTime?
 
 Contact the **Cloud S/ntax Support Team**.
 
-**Email:** [support@cloudsyntax.co.uk](mailto:support@cloudsyntax.co.uk)
+**Email:** [masjidtime@cloudsyntax.co.uk](mailto:masjidtime@cloudsyntax.co.uk)
 
 - **Licence requests:** [Request a MasjidTime Licence](docs/ACTIVATION.md)
 - **Installation assistance:** [Windows Guide](docs/INSTALL_WINDOWS.md) | [Linux Guide](docs/INSTALL_LINUX.md)
