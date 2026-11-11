@@ -1,13 +1,13 @@
 # MasjidTime - Configuration & User Guide
 
 **Version:** 1.4.2 | **Platforms:** Windows and Linux  
-**Cloud S/ntax** | Support: [support@cloudsyntax.co.uk](mailto:support@cloudsyntax.co.uk)
+**Cloud S/ntax** | Support: [masjidtime@cloudsyntax.co.uk](mailto:masjidtime@cloudsyntax.co.uk)
 
 > This guide was checked against the v1.4.2 Python development source. It describes controls and behaviours implemented in that version. The Quick Start is intentionally short enough to occupy approximately one printed page; Markdown itself does not guarantee page breaks.
 
 ## Part 1 - Quick Start (one-page reference)
 
-1. **Install and activate.** Follow the platform installation instructions and import the device-specific `.lic` file when prompted. For a licence, email [support@cloudsyntax.co.uk](mailto:support@cloudsyntax.co.uk?subject=MasjidTime%20Licence%20Request) with the Device ID shown in the app.
+1. **Install and activate.** Follow the platform installation instructions and import the device-specific `.lic` file when prompted. For a licence, email [masjidtime@cloudsyntax.co.uk](mailto:masjidtime@cloudsyntax.co.uk?subject=MasjidTime%20Licence%20Request) with the Device ID shown in the app.
 2. **Open Settings.** Select the settings cog. Open **Location & Calculation**.
 3. **Add your masjid.** Edit the **Primary** masjid, enter its name and optional city/location, and select an **Iqamah timetable** source: **Local file**, **Remote URL**, or **Jumu'ah only (no timetable)**. Use **Manage Masjid Library…** to store additional masajid.
 4. **Set your location.** Select **Advanced…** to configure latitude, longitude, timezone and elevation. Use its test/preview tools to check prayer entry times.
@@ -122,7 +122,7 @@ If a remote timetable is used, check its URL with **Validate Remote** and confir
 
 ### 12. Support and licensing
 
-For installation, activation or configuration help, contact **[support@cloudsyntax.co.uk](mailto:support@cloudsyntax.co.uk)**. Include the application version, Windows/Linux platform and a description of the issue. For licence requests, provide the **Device ID** shown on the activation screen. Do not publicly post licence files or private credentials.
+For installation, activation or configuration help, contact **[masjidtime@cloudsyntax.co.uk](mailto:masjidtime@cloudsyntax.co.uk)**. Include the application version, Windows/Linux platform and a description of the issue. For licence requests, provide the **Device ID** shown on the activation screen. Do not publicly post licence files or private credentials.
 
 ---
 
